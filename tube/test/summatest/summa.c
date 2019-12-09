@@ -1,6 +1,6 @@
-#include <stdint.h>
-#include <sys/io.h>
-#include <stdio.h>
+//#include <stdint.h>
+//#include <sys/io.h>
+//#include <stdio.h>
 #include "summa.h"
 
 uint8_t waitk(void)
